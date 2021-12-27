@@ -1,6 +1,6 @@
 package strategy
 
-fun main(args: Array<String>) {
+fun main() {
     val myProgram = MyProgram()
     myProgram.testProgram()
 }
